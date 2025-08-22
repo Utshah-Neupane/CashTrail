@@ -1,0 +1,20 @@
+Creates package.json:
+npm init -y
+
+To install express:
+npm i express
+
+To change version of express from 5 to 4 because it is more stable:
+npm i express@4.21.0
+
+This then:
+npm i dotenv@16.5.0 cors@2.8.5  @neondatabase/serverless@1.0.0
+
+Then for bakend folder, to run, I did:
+node server.js
+
+So that we don't have to restart and kill terminal everytime
+npm i -D nodemon
+
+For running the program:
+npm run dev
