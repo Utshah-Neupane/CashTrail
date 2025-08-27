@@ -43,6 +43,10 @@
     Then to run the app:
     npx expo
 
+    For authentication using clerk:
+    npm install @clerk/clerk-expo
+    npm install expo-secure-store
+
     
 
 
