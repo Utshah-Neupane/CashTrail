@@ -38,9 +38,15 @@ export default function SignUpScreen() {
     } catch (err) {
       // See https://clerk.com/docs/custom-flows/error-handling
       // for more info on error handling
-      console.error(JSON.stringify(err, null, 2))
+      if (err.errors?.[0]?.code === "form_identifier_exists"){
+        setError("That email address is already in use. Please try another.");
+      }
+      else{
+        setError("An error occured. Please try again!")
+      }
+      console.log(err);
     }
-  }
+  };
 
   // Handle submission of verification form
   const onVerifyPress = async () => {
