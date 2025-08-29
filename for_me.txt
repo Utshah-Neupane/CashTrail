@@ -40,15 +40,17 @@
     To generate react-native functional component
     rnfe
 
-    Then to run the app:
-    npx expo
-
     For authentication using clerk:
     npm install @clerk/clerk-expo
     npm install expo-secure-store
 
     Keyboard avoiding/blocking view package:
     npm i react-native-keyboard-aware-scroll-view
+
+
+
+    Then to run the app:
+    npx expo
 
     
 
