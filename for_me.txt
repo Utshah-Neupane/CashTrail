@@ -1,3 +1,11 @@
+For this project, I have accounts in these websites:
+    https://dashboard.clerk.com  (for email-password authentication)
+    https://utshah-neupane-s-team.postman.co (for api testing)
+    https://console.neon.tech (for database)
+    https://console.upstash.com/redis/ (for upstash rate limiting)
+
+
+
 1. Backend Folder
 
     Creates package.json:
