@@ -1,9 +1,7 @@
 //react custom hook file
 import { useCallback, useState } from "react";
 import { Alert } from "react-native";
-
-//const API_URL = "http://localhost:5001/api";
-const API_URL = "https://expensetracker-qz6v.onrender.com/api";
+import { API_URL } from "../constants/api";
 
 
 export const useTransactions = (userId) =>{
