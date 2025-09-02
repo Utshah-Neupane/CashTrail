@@ -42,7 +42,7 @@
 
 Watch a quick demo of the Expense Tracker app:
 
-[![Expense Tracker Demo](../mobile/assets/images/revenue-i4.png)](https://www.youtube.com/shorts/W3ZHgM-pgpE?feature=share)
+[![Expense Tracker Demo](./mobile/assets/images/revenue-i4.png)](https://www.youtube.com/shorts/W3ZHgM-pgpE?feature=share)
 
 *Click the image above to watch the demo video*
 
