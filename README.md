@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>💰 Expense Tracker</h1>
+  <h1>💰 CashTrail</h1>
   <p>A modern, full-stack expense tracking application built with React Native and Node.js</p>
   
   [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
@@ -40,7 +40,7 @@
 
 ## 🎥 Demo
 
-Watch a quick demo of the Expense Tracker app:
+Watch a quick demo of the CashTrail app:
 
 [![Expense Tracker Demo](./mobile/assets/images/revenue-i4.png)](https://www.youtube.com/shorts/W3ZHgM-pgpE?feature=share)
 
@@ -59,8 +59,8 @@ Watch a quick demo of the Expense Tracker app:
 
 #### 1. Clone the repository
 ```bash
-git clone https://github.com/Utshah-Neupane/ExpenseTracker.git
-cd ExpenseTracker
+git clone https://github.com/Utshah-Neupane/CashTrail
+cd CashTrail
 ```
 
 #### 2. Backend Setup
@@ -112,11 +112,4 @@ Deploy the backend to Render or your preferred hosting service. Update the `API_
 This app connects to a pre-deployed backend at [https://expensetracker-qz6v.onrender.com](https://expensetracker-qz6v.onrender.com). No need to run a local backend server unless you want to modify the backend code.
 
 If you need to deploy your own backend, follow the setup instructions in the Backend Setup section above.
-
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
 
